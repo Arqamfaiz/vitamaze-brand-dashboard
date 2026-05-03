@@ -15,21 +15,21 @@ at Vision Healthcare NV (Munich).
 
 Five sections navigated from the sidebar:
 
-1. **Brand Overview** — 12-month revenue trend, category split, top products by revenue.
+1. **Brand Overview** - 12-month revenue trend, category split, top products by revenue.
    Shows seasonality patterns (winter vitamin D spike) useful for campaign planning.
 
-2. **Product Performance** — Drill into any of the 12 Vitamaze SKUs. Units sold,
+2. **Product Performance** - Drill into any of the 12 Vitamaze SKUs. Units sold,
    BSR (Best Seller Rank) tracking, rating vs return rate scatter across the portfolio.
 
-3. **Competitor Landscape** — 8 brands mapped by revenue, portfolio breadth, channel
+3. **Competitor Landscape** - 8 brands mapped by revenue, portfolio breadth, channel
    strategy, and rating. Identifies Vitamaze's positioning gap (quality leader, but
    smaller portfolio than Natural Elements or Nature Love).
 
-4. **Market Trends** — 8 trends in the German VMS market with YoY growth rates,
+4. **Market Trends** - 8 trends in the German VMS market with YoY growth rates,
    relevance scoring, and recommended actions. Highlights gummy vitamins (+25% YoY)
    and personalised subscriptions (+22% YoY) as the biggest opportunities.
 
-5. **Launch Pipeline** — 5 upcoming products mapped to specific market gaps, with
+5. **Launch Pipeline** - 5 upcoming products mapped to specific market gaps, with
    timeline and strategic rationale for each.
 
 ---
@@ -74,7 +74,7 @@ streamlit run app.py
 
 ## About the author
 
-Arqam Faiz Siddiqui — M.Sc. International Information Systems at FAU
+Arqam Faiz Siddiqui - M.Sc. International Information Systems at FAU
 Erlangen-Nurnberg, with a BBA in Business Administration and prior
 experience in pharmaceutical brand analytics at GSK.
 
