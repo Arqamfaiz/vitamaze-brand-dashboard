@@ -31,13 +31,21 @@ div[data-testid="metric-container"] {{ background-color: #FAFAFA; border-radius:
 DATA_DIR = Path(__file__).parent / "data"
 
 @st.cache_data
+@st.cache_data
 def load_all():
     products = pd.read_csv(DATA_DIR / "product_portfolio.csv")
-    sales = pd.read_csv(DATA_DIR / "monthly_sales.csv")
-    sales["month"] = pd.to_datetime(sales["month"])
+    sales = pd.read_csv(DATA_DIR / "monthly_sales.csv", sep=None, engine="python")
     competitors = pd.read_csv(DATA_DIR / "competitor_landscape.csv")
     trends = pd.read_csv(DATA_DIR / "market_trends.csv")
     launches = pd.read_csv(DATA_DIR / "product_launches.csv")
+
+    sales.columns = [c.strip().lower() for c in sales.columns]
+
+    if "month" not in sales.columns:
+        sales.rename(columns={sales.columns[0]: "month"}, inplace=True)
+
+    sales["month"] = pd.to_datetime(sales["month"], errors="coerce")
+
     return products, sales, competitors, trends, launches
 
 products, sales, competitors, trends, launches = load_all()
