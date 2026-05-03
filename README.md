@@ -7,7 +7,7 @@ product launch pipeline in the German VMS (Vitamins, Minerals & Supplements) mar
 Built as a portfolio project for the **Working Student Brand Management** role
 at Vision Healthcare NV (Munich).
 
-**Live demo:** [paste Streamlit link here after deployment]
+**Live demo:** https://vitamaze-brand-dashboard-jlkjjca4n6kmjjfxbgmu7b.streamlit.app/
 
 ---
 
