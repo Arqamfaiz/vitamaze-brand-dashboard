@@ -1,0 +1,145 @@
+month	sku	product_name	category	units_sold	revenue_eur	avg_rating	new_reviews	return_rate_pct	amazon_bsr
+6/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	2927	54921.17	4.6	33	3.5	7508
+7/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3069	56540.73	4.6	49	3	417
+8/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3153	61460.91	4.7	77	3.3	6830
+9/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3671	71895.33	4.6	74	2.5	1473
+10/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	4294	79592.26	4.7	65	4	5145
+11/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3737	71400.53	4.6	68	1.7	2601
+12/1/2025	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	4605	90944.43	4.7	110	1.7	5617
+1/1/2026	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3915	72427.01	4.6	32	2.6	3914
+2/1/2026	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	4248	80558.23	4.6	54	3.6	5799
+3/1/2026	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3520	68096.33	4.6	113	2.2	3986
+4/1/2026	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3336	66564.08	4.7	91	2.2	2856
+5/1/2026	VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3653	71643.14	4.6	24	3.9	3486
+6/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1662	40063.17	4.5	47	3.5	3441
+7/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1818	42282.68	4.4	115	3.2	2352
+8/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1704	41131.26	4.5	37	3	944
+9/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1992	49187.54	4.4	40	3.9	3658
+10/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2351	56806.62	4.5	52	4.4	7251
+11/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2629	60996.03	4.6	116	2.3	5450
+12/1/2025	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2214	51560.38	4.4	112	4.1	2357
+1/1/2026	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2682	64331.91	4.4	100	2.4	5434
+2/1/2026	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2230	52894.11	4.4	119	4.3	7724
+3/1/2026	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1706	40295.61	4.4	66	4.1	7013
+4/1/2026	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	2012	47182.87	4.4	92	4.3	901
+5/1/2026	VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	1983	48786.73	4.6	88	3.8	1251
+6/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3081	52110.33	4.7	74	4.4	7809
+7/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3226	54266.4	4.6	105	3.4	3788
+8/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3242	54753.45	4.5	22	3.3	2085
+9/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3563	58941.77	4.6	27	2.2	7617
+10/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3911	67549.04	4.6	82	2.1	1283
+11/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	4880	84720.52	4.5	80	3.9	1759
+12/1/2025	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	4223	71967.26	4.6	113	1.7	5553
+1/1/2026	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	4337	74211.31	4.6	33	2.2	1758
+2/1/2026	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	4086	68629.2	4.6	29	2.8	7256
+3/1/2026	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3751	62541	4.6	89	4	964
+4/1/2026	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3800	67459.44	4.5	82	2.9	7283
+5/1/2026	VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	3432	57028.49	4.6	69	2.3	6623
+6/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2332	41002.56	4.8	104	3.7	1468
+7/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2081	34578.89	4.7	27	3.7	668
+8/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2140	38207.8	4.7	27	4.4	856
+9/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2850	47398.08	4.6	50	2.7	7913
+10/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	3357	58368.43	4.7	73	3.5	4830
+11/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	3631	61095.36	4.7	50	2.3	1272
+12/1/2025	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	3283	55768.11	4.8	29	1.5	5288
+1/1/2026	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	3950	65718.99	4.6	53	1.9	3059
+2/1/2026	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	3799	64824.74	4.6	89	3.6	5210
+3/1/2026	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2920	51662.65	4.7	105	4	2652
+4/1/2026	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2892	48242.37	4.8	53	1.8	1076
+5/1/2026	VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	2792	46782.39	4.7	46	3.7	1867
+6/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3083	47220.92	4.7	26	1.8	3669
+7/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3037	45915.04	4.5	53	2	3819
+8/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3144	46231.75	4.5	108	4.2	4669
+9/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3279	49723.12	4.6	75	1.9	2725
+10/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	4803	76533.3	4.5	65	2.1	2244
+11/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	4503	69380.91	4.7	99	3.7	7783
+12/1/2025	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	5181	82583.07	4.7	72	1.6	6233
+1/1/2026	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	5098	77583.43	4.6	114	3.9	2385
+2/1/2026	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	4444	67464.97	4.5	80	2.2	6889
+3/1/2026	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3917	59299.95	4.7	49	2.2	5606
+4/1/2026	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3393	51274.29	4.7	118	2.3	5455
+5/1/2026	VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	3621	56344.76	4.7	62	4.3	1144
+6/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1688	34906.12	4.4	75	2.5	6642
+7/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1616	34115.82	4.5	93	2.1	563
+8/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1525	33304.77	4.5	112	4.3	6237
+9/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1932	40287.14	4.4	105	4.3	5304
+10/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	2424	52061.31	4.5	59	3.5	2872
+11/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	2205	45061.65	4.5	68	3.5	7595
+12/1/2025	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	2245	46979.13	4.6	58	2.4	3721
+1/1/2026	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	2495	51843.07	4.5	106	2.1	4076
+2/1/2026	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	2671	57442.33	4.5	56	3	5385
+3/1/2026	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1913	38980.32	4.6	50	3.5	2040
+4/1/2026	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1983	40594.77	4.4	80	3.3	6495
+5/1/2026	VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	1709	35787.86	4.5	44	3.7	3345
+6/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2257	32942.94	4.7	118	4.2	6576
+7/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2281	34031.74	4.6	26	3.2	7715
+8/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2595	38230	4.6	91	3.3	7982
+9/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2968	42449.6	4.7	84	2.8	7628
+10/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3839	56291.26	4.6	53	3.8	7080
+11/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3799	54693.1	4.6	55	2.8	6045
+12/1/2025	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3253	46047.14	4.6	37	2	3337
+1/1/2026	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3789	52475.08	4.6	89	2.9	710
+2/1/2026	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3310	49173.47	4.6	109	1.6	7414
+3/1/2026	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2974	42313.91	4.5	65	2.4	3394
+4/1/2026	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	3023	45085.71	4.6	115	3.7	6752
+5/1/2026	VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2882	40453.24	4.5	75	3	3385
+6/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2075	38494.19	4.6	36	4.4	4575
+7/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	1712	31344.87	4.4	102	2.8	7301
+8/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	1721	31025.72	4.4	61	2.5	7406
+9/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2123	39474.32	4.6	52	4	4052
+10/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2530	47993.75	4.5	103	1.7	5539
+11/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2283	40700.59	4.6	99	2	1234
+12/1/2025	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2499	47207.9	4.5	52	3.8	1574
+1/1/2026	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	3022	56035.67	4.6	40	4.4	1085
+2/1/2026	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2990	54795.43	4.6	68	2.7	6057
+3/1/2026	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2044	37509.38	4.6	51	1.8	6528
+4/1/2026	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2089	38627.35	4.6	92	3.8	3044
+5/1/2026	VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	2190	40419.35	4.4	102	2.5	7159
+6/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2143	42661.46	4.4	78	3.6	3767
+7/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2091	40589.59	4.4	88	3.8	4008
+8/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2281	42885.51	4.5	31	2.3	3892
+9/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2390	45684.42	4.4	68	2.5	4249
+10/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	3115	58285.65	4.5	63	2.3	5083
+11/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	3105	57096.66	4.5	30	2.2	3529
+12/1/2025	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	3306	64386.72	4.4	82	2.8	341
+1/1/2026	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2780	54147.73	4.4	94	2.6	4734
+2/1/2026	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	3118	61000.88	4.4	109	2.9	2711
+3/1/2026	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2394	44444.99	4.3	35	3.7	7989
+4/1/2026	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2652	49508.05	4.3	81	2.3	5029
+5/1/2026	VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	2760	53021.15	4.4	32	4	2626
+6/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1420	31855.51	4.2	25	4.4	4733
+7/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1590	35464.23	4.4	33	4.1	4902
+8/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1452	31593.31	4.4	52	4.3	4113
+9/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1597	33940.2	4.3	93	3.4	639
+10/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	2170	49642.03	4.2	51	1.9	6462
+11/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	2175	48434.65	4.4	68	2.9	3826
+12/1/2025	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	2130	46690.49	4.3	27	3.3	6262
+1/1/2026	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	2131	47482.61	4.3	30	2	1623
+2/1/2026	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	2031	44444.56	4.3	80	2.4	2096
+3/1/2026	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1657	35877.24	4.4	29	3.6	7768
+4/1/2026	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1649	37244.97	4.3	45	2.8	4661
+5/1/2026	VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	1635	34999.11	4.3	38	1.7	1559
+6/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	1949	32866.01	4.5	79	3.6	5932
+7/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	1690	27623.86	4.5	96	1.6	3739
+8/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	1912	29918.05	4.4	106	4	4912
+9/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2094	32751.34	4.6	54	3.2	6451
+10/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2663	43931.22	4.6	43	4.5	3770
+11/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2624	41291.97	4.5	62	2.5	1056
+12/1/2025	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2628	43504.26	4.5	71	3.9	4706
+1/1/2026	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2186	34877.75	4.4	118	2.7	4415
+2/1/2026	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2437	40923.7	4.5	26	2.1	3163
+3/1/2026	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2109	34353.83	4.5	26	2.1	4699
+4/1/2026	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	1907	30518.54	4.6	82	1.9	5361
+5/1/2026	VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	2103	33516.08	4.4	90	1.5	3542
+6/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1051	13641.14	4.5	102	4	4282
+7/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1063	14500.14	4.4	81	4.4	2196
+8/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	952	12438.29	4.4	115	4.1	7278
+9/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1079	14799.5	4.5	63	4.3	4359
+10/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1279	17476.04	4.5	94	4.5	4211
+11/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1545	20693.27	4.4	117	3.1	3930
+12/1/2025	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1695	23642.73	4.3	69	2.2	6553
+1/1/2026	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1402	18760.16	4.5	68	2.7	5636
+2/1/2026	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1592	20731.65	4.5	36	3	5034
+3/1/2026	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1141	14792.57	4.5	32	3.1	3943
+4/1/2026	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1066	13872.4	4.5	39	1.7	6602
+5/1/2026	VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	1291	17080.93	4.4	103	1.7	2891
