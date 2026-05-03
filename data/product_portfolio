@@ -1,0 +1,13 @@
+sku	product_name	category	launch_date	avg_rating	review_count	price_eur	status
+VMZ-D3K2	Vitamin D3 + K2 5000 IU (180 Tablets)	Vitamins	3/1/2018	4.7	5054	19.97	Active
+VMZ-LARG	L-Arginine 4500mg (360 Capsules)	Amino Acids	9/1/2017	4.5	5442	24.97	Active
+VMZ-BIOT	Biotin + Zinc + Selenium (365 Tablets)	Hair Skin Nails	6/1/2017	4.6	8230	17.97	Active
+VMZ-VITK	Vitamin K Complex K1+K2 (120 Capsules)	Vitamins	1/1/2019	4.7	1494	17.97	Active
+VMZ-MILK	Milk Thistle 80% Silymarin (90 Capsules)	Herbal	8/1/2018	4.6	2870	15.97	Active
+VMZ-OMG3	Omega-3 1000mg Fish Oil (240 Capsules)	Omega & Oils	5/1/2019	4.5	3640	21.97	Active
+VMZ-ZINC	Zinc 25mg High Dose (365 Tablets)	Minerals	2/1/2020	4.6	4120	14.97	Active
+VMZ-CURC	Curcuma + Piperine (240 Capsules)	Herbal	11/1/2019	4.5	3890	18.97	Active
+VMZ-MSM	MSM 2000mg + Vitamin C (360 Tablets)	Joint Health	6/1/2020	4.4	2150	19.97	Active
+VMZ-PROB	Probiotics Complex 20 Strains (180 Capsules)	Gut Health	3/1/2021	4.3	1240	22.97	Active
+VMZ-MAGN	Magnesium 400mg Tri-Complex (360 Tablets)	Minerals	1/1/2022	4.5	1680	16.97	Active
+VMZ-IRON	Iron 40mg + Vitamin C (120 Capsules)	Minerals	6/1/2023	4.4	620	13.97	New Launch
